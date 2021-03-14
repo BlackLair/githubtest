@@ -13,4 +13,4 @@ public class MainActivity extends AppCompatActivity {
 
         // a 개발자 부쉬
     }
-}
+}// 이것은 a가 만든 주석
