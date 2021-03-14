@@ -38,6 +38,7 @@
         android:layout_height="wrap_content"
         android:text="헬로 헬로"
         android:id="@+id/btnName"/>
+    //dektop의 final 주석
 
 
 </LinearLayout>
