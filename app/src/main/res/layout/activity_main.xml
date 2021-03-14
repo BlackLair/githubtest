@@ -20,8 +20,8 @@
         android:layout_height="wrap_content"
         android:text="이것은 b가 만든 버튼"/>
     <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text="호디ㅣ릴마ㅣ온"
         android:id="@+id/dsdsad" />
     <EditText
@@ -39,6 +39,11 @@
         android:layout_height="wrap_content"
         android:text="헬로 헬로"
         android:id="@+id/btnName"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="언제까지 버튼만들거야?"
+        android:textSize="40dp"/>
     //dektop의 final 주석
 
     //desktop의 브랜치로 추가한 주석
