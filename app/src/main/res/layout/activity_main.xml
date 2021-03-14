@@ -5,6 +5,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:orientation="vertical"> //desktop의 주석문 주석문이다.
+    //notebook 주석
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
