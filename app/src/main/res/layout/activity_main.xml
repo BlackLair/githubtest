@@ -41,5 +41,5 @@
         android:id="@+id/btnName"/>
     //dektop의 final 주석
 
-
+    //desktop의 브랜치로 추가한 주석
 </LinearLayout>
