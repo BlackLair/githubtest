@@ -25,6 +25,11 @@
         android:layout_height="wrap_content"
         android:hint="이름 입력하세요"
         android:id="@+id/edit_a"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="정우텍스트"
+        android:textSize="30dp"/>
 
 
 </LinearLayout>
