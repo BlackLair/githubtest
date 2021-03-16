@@ -10,6 +10,7 @@ import android.os.Bundle;
 //이번엔 하드
 
 //이번엔 다시 진짜 하드
+//코밋만해봐
 public class MainActivity extends AppCompatActivity {
 
     @Override
