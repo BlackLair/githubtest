@@ -16,3 +16,4 @@ public class MainActivity extends AppCompatActivity {
 }// 이것은 a가 만든 주석
 
 //나의 브랜치 주석이다!
+//이것도 브랜치 주석이다!
