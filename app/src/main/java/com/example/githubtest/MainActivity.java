@@ -19,6 +19,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("!23213");
 
-
+// 진선우 보여줄 주석이다 이거야~
     }
 }
