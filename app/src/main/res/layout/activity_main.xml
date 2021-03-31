@@ -24,26 +24,64 @@
         android:layout_height="wrap_content"
         android:text="호디ㅣ릴마ㅣ온"
         android:id="@+id/dsdsad" />
-    <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:hint="이름 입력하세요"
-        android:id="@+id/edit_a"/>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="정우텍스트11"
-        android:textSize="30dp"/>
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="헬로 헬로"
-        android:id="@+id/btnName"/>
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="언제까지 버튼만들거야?"
-        android:textSize="40dp"/>
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="#FFFFAA">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:text="1"
+                android:layout_margin="2dp"/>
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:text="2"
+                android:layout_margin="2dp"/>
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:text="3"
+                android:layout_margin="2dp"/>
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:text="4"
+                android:layout_margin="2dp"/>
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:text="5"
+                android:layout_margin="2dp"/>
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:text="6"
+                android:layout_margin="2dp"/>
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:text="7"
+                android:layout_margin="2dp"/>
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:text="8"
+                android:layout_margin="2dp"/>
+            </LinearLayout>
+        </LinearLayout>
+    </HorizontalScrollView>
     //dektop의 final 주석
 
     //desktop의 브랜치로 추가한 주석
