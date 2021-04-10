@@ -9,7 +9,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="마지막버튼"/>
+        android:text="가나다라마바사아자차카타파하"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
