@@ -9,7 +9,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="마지막버튼"/>
+        android:text="정우가고친텍스트"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
