@@ -18,7 +18,9 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="이동희짱짱맨"/>
+        android:text="이동희짱짱맨"
+        android:id="@+id/myButton"
+        android:background="#ffffff"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
